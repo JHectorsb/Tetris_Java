@@ -7,8 +7,8 @@ Movimiento automático y detección de colisiones.
 Música de fondo aleatoria para cada partida.
 Puntaje dinámico y aumento de dificultad.
 Botón para regresar al menú principal.
-Capturas de pantalla 📸
-Añade imágenes aquí.
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/hF0Z6kk/tablero-t.png" alt="tablero-t" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/rtvY914/tetris-M.png" alt="tetris-M" border="0"></a>
 
 <h2>Cómo jugar 🎮</h2>
 Mueve las piezas con las teclas:
