@@ -12,9 +12,9 @@ Añade imágenes aquí.
 
 <h2>Cómo jugar 🎮</h2>
 Mueve las piezas con las teclas:
-A: Mover a la izquierda.
-D: Mover a la derecha.
-S: Acelerar la caída.
-Espacio: Rotar la pieza.
+<p>A: Mover a la izquierda.</p>
+<p>D: Mover a la derecha.</p>
+<p>S: Acelerar la caída.</p>
+<p>Espacio: Rotar la pieza.</p>
 Llena líneas completas para ganar puntos.
 Evita que las piezas lleguen a la parte superior.
