@@ -2,12 +2,8 @@
 ¡Bienvenido a mi implementación de Tetris en Java! Este proyecto fue desarrollado como parte de un proyecto universitario, recreando el clásico juego de Tetris.
 
 <h2>Características ✨</h2>
-Gráficos personalizados usando Java Swing.
-Movimiento automático y detección de colisiones.
+Facilidad para añadir contenido: Permite agregar nuevas pistas de música o modificar el tamaño del tablero con cambios mínimos en el código.
 Música de fondo para la partida.
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/hF0Z6kk/tablero-t.png" alt="tablero-t" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/rtvY914/tetris-M.png" alt="tetris-M" border="0"></a>
 
 <h2>Cómo jugar 🎮</h2>
 Mueve las piezas con las teclas:
