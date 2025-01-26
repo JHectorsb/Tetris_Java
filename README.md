@@ -1,5 +1,6 @@
 <h1>Tetris en Java 🎮</h1>
 ¡Bienvenido a mi implementación de Tetris en Java! Este proyecto fue desarrollado como parte de un proyecto universitario, recreando el clásico juego de Tetris.
+El ejecutable .jar se encuentra en la carpeta dist 
 
 <h2>Características ✨</h2>
 Facilidad para añadir contenido: Permite agregar nuevas pistas de música o modificar el tamaño del tablero con cambios mínimos en el código.
